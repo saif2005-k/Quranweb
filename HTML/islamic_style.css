@@ -1,0 +1,11 @@
+body{padding-top: 30px; font-family: monospace}
+a {border:30px solid white; width:200px;hight:50px ;color : gold; background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2RTfCbH6iB-uK6SR8Dr45Jv6ffg-4_zvDA&usqp=CAU");
+float:right ;font-size: 48px;  padding:1px}
+body{background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkf4SLmlrVJySaPhz-vcN3i64wOsOWYYPjFg&usqp=CAU");
+background-size : cover;
+background-repeat : no-repeat;}
+
+h1{float-displac:center; color:greenyellow;}
+p{color:saddlebrown;
+        font-family: 'Tangerine', serif;
+        font-size: 48px;}

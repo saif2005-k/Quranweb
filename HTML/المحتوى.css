@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMBoUQXqvd6zDnBXyzQAeR_KNcvWCCMqI7VQ&usqp=CAU");
+   background-size:1000px ;
+    background-repeat: repeat 2;}
+a {
+    font-size: 40px;
+    list-style-type;
+    padding: 0;
+    margin: 0;
+
+}
+{float:right;font-size: 80px;background-color: burlywood;color:black}
+table{float:right;height: 30px}
